@@ -1,0 +1,3 @@
+class XmlDocument
+
+end
